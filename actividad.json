@@ -1,0 +1,160 @@
+{
+  "habitacion": [
+    {
+      "camas": 2,
+      "capacidad": 3,
+      "caracteristicas": "2 camas 1 doble 1 sencilla, baño privado",
+      "id": "101",
+      "nombrehab": "Suite Deluxe",
+      "valornoche": 125000
+    },
+    {
+      "camas": 1,
+      "capacidad": 2,
+      "caracteristicas": "1 cama doble, baño privado",
+      "id": "102",
+      "nombrehab": "Suite Basic",
+      "valornoche": 100000
+    },
+    {
+      "camas": 1,
+      "capacidad": 2,
+      "caracteristicas": "1 cama , baño privado",
+      "id": "104",
+      "nombrehab": "Juan Suarez",
+      "valornoche": 55000
+    },
+    {
+      "camas": 2,
+      "capacidad": 4,
+      "caracteristicas": "3 cama , baño privado",
+      "id": "105",
+      "nombrehab": "Pepe",
+      "valornoche": 7000
+    }
+  ],
+  "reservas": [
+    {
+      "fechaentrada": "2022-08-22",
+      "fechareserva": "2022-07-07",
+      "fechasalida": "2022-08-26",
+      "habitacionId": 101,
+      "id": "1",
+      "totalnoches": 5,
+      "userId": 1,
+      "valorreserva": 625000
+    },
+    {
+      "fechaentrada": "2022-08-20",
+      "fechareserva": "2022-04-07",
+      "fechasalida": "2022-08-21",
+      "habitacionId": 102,
+      "id": "2",
+      "totalnoches": 2,
+      "userId": 2,
+      "valorreserva": 300000
+    },
+    {
+      "fechaentrada": "2023-08-21",
+      "fechareserva": "2023-06-07",
+      "fechasalida": "2023-08-26",
+      "habitacionId": 103,
+      "id": "3",
+      "totalnoches": 5,
+      "userId": 3,
+      "valorreserva": 995000
+    },
+    {
+      "fechaentrada": "2024-03-01",
+      "fechareserva": "2024-01-27",
+      "fechasalida": "2024-03-10",
+      "habitacionId": 104,
+      "id": "4",
+      "totalnoches": 9,
+      "userId": 4,
+      "valorreserva": 948000
+    }
+  ],
+  "user": [
+    {
+      "apellido": "Yepes Caicedo",
+      "email": "marioyepes@gmail.com",
+      "fnacimiento": "1982-06-25",
+      "id": "1",
+      "nombre": "Mario Alberto",
+      "numdoc": "1234567890",
+      "password": "qwerty",
+      "tipodoc": "Cédula Ciudadanía"
+    },
+    {
+      "apellido": "Esguerra Cortés",
+      "email": "lauraesguerra@gmail.com",
+      "fnacimiento": "1987-03-15",
+      "id": "2",
+      "nombre": "Laura María",
+      "numdoc": "198765432",
+      "password": "123456",
+      "tipodoc": "Pasaporte"
+    },
+    {
+      "apellido": "Rodriguez Gordo",
+      "email": "NicolasRo@gmail.com",
+      "fnacimiento": "2000-06-14",
+      "id": "3",
+      "nombre": "Nicolas",
+      "numdoc": "1234568765",
+      "password": "holamundo",
+      "tipodoc": "Cédula Ciudadanía"
+    },
+    {
+      "apellido": "Yepes",
+      "email": "pyepes@gmail.com",
+      "fnacimiento": "1999-12-25",
+      "id": "4",
+      "nombre": "Pepe",
+      "numdoc": "1234566677",
+      "password": "pepe123",
+      "tipodoc": "Tarjeta de Identidad"
+    },
+    {
+      "apellido": "Rodriguez",
+      "email": "evelio21@gmail.com",
+      "fnacimiento": "1987-04-12",
+      "id": "5",
+      "nombre": "Evelio",
+      "numdoc": "1234566",
+      "password": "familiafeliz12",
+      "tipodoc": "Pasaporte"
+    },
+    {
+      "id": "6",
+      "tipodoc": "Tarjeta de Identidad",
+      "numdoc": "1029144151",
+      "nombre": "Sebastian ",
+      "apellido": "Botero Gordo",
+      "fnacimiento": "2007-01-15",
+      "email": "sebastianboterogordo10@gmail.com",
+      "password": "19780511+"
+    },
+    {
+      "id": "6",
+      "tipodoc": "Tarjeta de Identidad",
+      "numdoc": "1029144151",
+      "nombre": "Sebastian ",
+      "apellido": "Botero Gordo",
+      "fnacimiento": "2007-01-15",
+      "email": "sebastianboterogordo10@gmail.com",
+      "password": "19780511+"
+    },
+    {
+      "id": "6",
+      "tipodoc": "Tarjeta de Identidad",
+      "numdoc": "1029144151",
+      "nombre": "Narly ",
+      "apellido": "Sanchez",
+      "fnacimiento": "2007-01-15",
+      "email": "sebastianboterogordo10@gmail.com",
+      "password": "19780511+"
+    }
+  ]
+}
